@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990650579180",
+    "firebase_url": "https://cyberbank-398fd-default-rtdb.firebaseio.com",
+    "project_id": "cyberbank-398fd",
+    "storage_bucket": "cyberbank-398fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990650579180:android:a82c711e1f8fffcdbb4dc9",
+        "android_client_info": {
+          "package_name": "com.example.bancodip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiX68hstCVqvyfistTVjEjBHKDv4GJpaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
